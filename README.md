@@ -1,5 +1,18 @@
 # 💫 About Me:
-🔭 I’m currently working on Pink Paradise Roleplay it's a fivem roleplay server that has robberies police whitelisted jobs etc<br>👯 I’m looking to collaborate on fivem server ideas<br>🤝 I’m looking for help with Qbcore Scripting<br>🌱 I’m currently learning Lua<br>💬 Ask me about anything<br>⚡ Fun fact it's not simple to work on a fivem server
+**Building FiveM Worlds:**
+
+*  Crafting experiences at Pink Paradise Roleplay: A FiveM server featuring robberies, police work, whitelisted jobs, and more!
+*  Seeking collaborators to brainstorm innovative FiveM server ideas. 
+*  Looking for guidance with QbCore scripting to elevate my server.
+*  Currently sharpening my Lua skills to unlock new scripting possibilities.
+
+**Open to Conversation:**
+
+*  Feel free to ask me anything about FiveM development or the world of roleplay servers!
+
+**Bonus Fact:**
+
+* ⚡ Building a FiveM server is no easy feat, but the rewards are worth it!
 
 
 ## 🌐 Socials:
