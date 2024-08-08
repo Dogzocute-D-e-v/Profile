@@ -1,5 +1,5 @@
 # 🔥 About Me:
-🖥️ I’m currently working on some projects (We Are Developers, BreezeNodes Proxy Dashboard,  Dashy Bot)<br>💬 Ask me about anything<br>⚡ Check Out [TBreezeNodes LTD](https:/BreezeNodes.com)
+🖥️ I’m currently working on some projects (We Are Developers, BreezeNodes Proxy Dashboard,  Dashy Bot)<br>💬 Ask me about anything<br>⚡ Check Out [BreezeNodes LTD](https:/BreezeNodes.com)
 
 
 ## ⭕ Socials:
